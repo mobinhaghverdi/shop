@@ -24,7 +24,6 @@ function Header() {
                     delay: 2200,
                     disableOnInteraction: false,
                 }}
-                onSlideChange={() => console.log('slide change')}
                 className="swiper-container"
             >
                 <SwiperSlide>
